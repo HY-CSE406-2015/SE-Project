@@ -1,0 +1,172 @@
+Software Engineering 3/24 meeting minutes
+
+
+Team Name : 
+	Team Memento
+	
+
+Project Name : 
+	Note to Push
+
+
+project plan
+
+	app+web>webserver>
+
+	project sponsor = who?
+
+project manager
+	Sangwon -> Byeongjin ->Ickchae -> Heeju -> Taeyeong
+
+overview
+	 Motive : For the people who forget things what to they do. 
+	Regardless of term, fix the push about what to do until finish that, so easy to remind about that.
+
+user requirement
+
+	Adding hash tag to find memo easily and checking importance
+	listing for important
+	sharing memo to others
+	gather many memo, extend when want to see
+	adding time, it will alarm that time
+	priority
+
+
+project work plan
+	
+	Initiate project
+		define high-level budget —delta
+	
+	Plan project
+		Develop work plan
+			develop project budget —delete
+		Develop project control Plan
+			modeling plan — add
+			construct plan — add
+	
+	design
+		app- function design, architecture design,  UI, Class design
+		web - function design, architecture design, UI, 
+		db - schema, Query
+	build
+		app tool build
+		web tool build
+	test
+		app tool usability
+		web tool usability
+	feed back
+
+	presentation
+
+
+	
+Staffing plan
+
+	PM - 1					3/11/15		4months
+	Core team - 5 				3/11/15		13 weeks
+	web designer(developer) - 2(1)		4/1(2)/15	1(.5)
+	app designer - 2(1)			4/8/15		1(.5)
+	review team - 5			4/8/15			1
+
+training needs - delete
+
+organization chart - 
+
+means about stages
+
+what is professor’s role
+
+featureing
+
+	notepush
+	indexing
+	importance
+	share
+	backup
+
+
+server
+	confirm
+
+
+
+3/26
+
+delete budget
+
+
+small scale project, determine the implement then do works
+
+scrum
+
+cut the project plans per iteration
+	per 3weeks
+
+
+
+Project Year
+FY 15
+
+
+Delete implement framework 
+
+Delete celebrate
+
+3/30
+
+schedule plan
+
+project control plans at next meeting
+
+3/31
+
+we should start design tomorrow
+
+Communication target
+	professor - project approval, report project status
+	project core team  - project direction, project deliverables, clear direction and delegation of tasks
+	project review team -  project direction, project deliverables, changes in work processes
+
+Communication message & delivery
+			message / method / communication frequency / communicator
+	
+professor 	status report	 / meeting / 	Biweekly    / project manager, project core team
+project core	project plan / meeting / three days per week / project manager, project core team
+team		status report / meeting / triweekly / 
+project review	status report / meeting / project manager, project core team / triweekly / 
+team			project briefing / meeting : oral briefing and presentation / half-annual / 
+
+
+Communication message
+
+	status report
+		status summary
+		status of schedule
+		status of scope
+		accomplishments achieved
+		concerns issues
+		next steps
+
+	project plan
+		current and future plans
+		project issues and problems
+		specify system requirements for current sprint
+		planned project deliverables for next period
+
+	project briefing
+		project goal
+		project deliverables 
+		project problems and issues
+
+
+	Quality management plan
+		
+	Merge change management plan and Risk management plan to Risk management plan
+		What risks can be happened
+			Midterm during the building the deliverable//exclusion that week in schedule
+			Assignments and another project from other courses
+			unexpected accident to our teammates
+			change in requirements
+
+	Remove issue management plan
+
